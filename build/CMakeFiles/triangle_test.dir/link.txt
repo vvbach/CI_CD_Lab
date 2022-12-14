@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/triangle_test.dir/test.cpp.o -o triangle_test  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

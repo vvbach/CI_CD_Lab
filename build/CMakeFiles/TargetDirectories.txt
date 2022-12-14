@@ -1,0 +1,4 @@
+/home/runner/work/Lab_6_PO/Lab_6_PO/build/CMakeFiles/triangle_test.dir
+/home/runner/work/Lab_6_PO/Lab_6_PO/build/CMakeFiles/test.dir
+/home/runner/work/Lab_6_PO/Lab_6_PO/build/CMakeFiles/edit_cache.dir
+/home/runner/work/Lab_6_PO/Lab_6_PO/build/CMakeFiles/rebuild_cache.dir
