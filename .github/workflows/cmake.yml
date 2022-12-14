@@ -40,4 +40,4 @@ jobs:
 
     - name: Build exe and push to master
       working-directory: ${{github.workspace}}
-      run: gcc main.c -o main; git add .; git commit -m "Add exe file"; git push origin master
+      run: g++ main.cpp -o main; git add .; git commit -m "Add exe file"; git push origin master
