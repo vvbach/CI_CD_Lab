@@ -1,10 +1,10 @@
-Start testing: Dec 14 09:18 UTC
+Start testing: Jan 03 01:32 UTC
 ----------------------------------------------------------
 1/1 Testing: triangle_test
 1/1 Test: triangle_test
 Command: "/home/runner/work/Lab_6_PO/Lab_6_PO/build/triangle_test"
 Directory: /home/runner/work/Lab_6_PO/Lab_6_PO/build
-"triangle_test" start time: Dec 14 09:18 UTC
+"triangle_test" start time: Jan 03 01:32 UTC
 Output:
 ----------------------------------------------------------
 [==========] Running 2 tests from 2 test suites.
@@ -26,8 +26,8 @@ Output:
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"triangle_test" end time: Dec 14 09:18 UTC
+"triangle_test" end time: Jan 03 01:32 UTC
 "triangle_test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Dec 14 09:18 UTC
+End testing: Jan 03 01:32 UTC

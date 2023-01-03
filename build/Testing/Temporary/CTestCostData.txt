@@ -1,2 +1,2 @@
-triangle_test 2 0.00166039
+triangle_test 3 0.000764041
 ---
