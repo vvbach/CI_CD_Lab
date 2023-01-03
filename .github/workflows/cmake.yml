@@ -38,7 +38,7 @@ jobs:
       # See https://cmake.org/cmake/help/latest/manual/ctest.1.html for more detail
       run: ctest -C ${{env.BUILD_TYPE}}
     - name: Setup git config
-      run: git config user.name "vvbach"; git config user.email "vietbach0203@gmail.com"
+      run: git config user.name "{username}"; git config user.email "{email}"
 
     - name: Build exe and push to master
       working-directory: ${{github.workspace}}
